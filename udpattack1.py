@@ -3,8 +3,6 @@
 import random
 import socket
 import threading
-
-        print("UDP FLOOD")
         ip = str(input(" IP:"))
         port = int(input(" PORT:"))
 
