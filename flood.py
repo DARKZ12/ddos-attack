@@ -4,7 +4,6 @@ import random
 import socket
 import threading
 
-if akamata == '11':
         colorama.init()
         print("DauBcode")
         print("UDP FLOOD")
